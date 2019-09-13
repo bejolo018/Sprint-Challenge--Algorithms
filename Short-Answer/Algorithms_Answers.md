@@ -2,14 +2,13 @@
 
 ## Exercise I
 
-a)
+a)O(n^3)
 
 
-b)
+b)O(n^2)
 
 
-c)
+c) Recursive algorithm, O(n) 
 
 ## Exercise II
-
 
